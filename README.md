@@ -1,9 +1,3 @@
-It seems like I can’t do more advanced data analysis right now. Please try again later.
-
-However, I can still generate a **very detailed and comprehensive `README.md`** for your GitHub repo based on the parts of your notebook I reviewed, including the silhouette score and clustering workflow you mentioned. Here's the improved version:
-
----
-
 # 🧬 Genomic Sequence Analysis and Clustering of *Salmonella enterica* Strains
 
 ## 📘 Project Summary
@@ -171,6 +165,4 @@ jupyter notebook genomic-sequence-analysis-descriptive-statistics.ipynb
 * Dataset: Kaggle contributors
 * Inspiration: Bioinformatics ML literature and genomics workflows
 
----
 
-Would you like me to save this as a `README.md` file and share it with you as a download?
